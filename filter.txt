@@ -30,3 +30,7 @@
 ||waust.at^
 ||intergient.com^
 ||plausible.io^
+||amazon-adsystem.com^
+||unagi.amazon.com^
+||scorecardresearch.com^
+||cdn.prod.metrics.imdb.com^
