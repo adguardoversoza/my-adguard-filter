@@ -35,3 +35,6 @@
 ||df.infra.shopee.ph^
 ||ubt.tracking.shopee.ph^
 ||secreporter.susercontent.com^
+||pi.reddit.com^
+||w3-reporting.reddit.com^
+||rlcdn.com^
