@@ -43,3 +43,4 @@
 ||sentry.io^
 ||muralssouth.shop^
 ||mynahsterfez.shop^
+||rostelshute.shop^
