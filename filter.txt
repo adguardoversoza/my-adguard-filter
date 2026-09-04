@@ -34,3 +34,6 @@
 ||unagi.amazon.com^
 ||scorecardresearch.com^
 ||cdn.prod.metrics.imdb.com^
+||df.infra.shopee.ph^
+||ubt.tracking.shopee.ph^
+||secreporter.susercontent.com^
