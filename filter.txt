@@ -42,3 +42,4 @@
 ||litix.io^
 ||sentry.io^
 ||muralssouth.shop^
+||mynahsterfez.shop^
