@@ -44,3 +44,4 @@
 ||muralssouth.shop^
 ||mynahsterfez.shop^
 ||rostelshute.shop^
+||instream.click^
